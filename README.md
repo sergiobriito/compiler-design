@@ -43,10 +43,10 @@ There are two major phases of compilation, which in turn have many parts. Each o
 
 To navigate through this analysis, you can explore the following sections:
 
-- [Lexical Analysis](Lexical_Analysis.md)
-- [Syntax Analysis](link-to-syntax-analysis.md)
-- [Semantic Analysis](link-to-semantic-analysis.md)
-- [Optimization Techniques](link-to-optimization-techniques.md)
+- [Lexical Analysis](compiler-design/LEXICAL_ANALYSIS.md)
+- [Syntax Analysis](compiler-design/SYNTAX_ANALYSIS.md)
 - [Code Generation](link-to-code-generation.md)
+
+
 
 

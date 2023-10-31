@@ -39,3 +39,7 @@ Finite Automata are mathematical models used to implement Lexical Analysis effic
 
 - **NFA vs. DFA**: NFAs are expressive but may require backtracking, making them potentially less efficient than DFAs. DFAs, on the other hand, excel in terms of performance due to their deterministic nature and minimal state count.
 
+
+
+
+[Main Page](../README.md)
