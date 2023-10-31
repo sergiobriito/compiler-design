@@ -41,3 +41,4 @@ Addressing modes define how a program accesses memory and data. Understanding an
 
 Code generation is not only about producing functional code but also about producing efficient code. The code generator applies various optimization techniques to reduce the execution time and memory usage of the generated code. These optimizations may include constant folding, loop unrolling, and many others.
 
+[Main Page](../README.md)
